@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+ticket_sales.db
+.pytest_cache/
+.vscode/
